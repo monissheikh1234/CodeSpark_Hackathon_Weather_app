@@ -15,7 +15,7 @@ An improved, feature-rich weather dashboard built with HTML, CSS, and JavaScript
 
 ##  Demo
 
-Live demo: *(Add your GitHub Pages URL or hosted link here)*
+Live demo: https://bespoke-jelly-862e3f.netlify.app/
 
 <img width="1031" height="825" alt="image" src="https://github.com/user-attachments/assets/59c855c0-ea26-459c-9b0b-4a83f5bfe56f" />
 
